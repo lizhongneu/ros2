@@ -15,4 +15,5 @@
   <export>
     <build_type>ament_cmake</build_type>
   </export>
+  <description>git 练习使用功能包</description>
 </package>
